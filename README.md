@@ -4,7 +4,7 @@ It scrapes product descriptions, prices, ratings, review counts, technical speci
 
 Customization:
 
-Modify the search_term in the main() function to scrape different products:
+Call the main() function with the desired search term to scrape results for that product.
   main('laptop')  # Replace 'laptop' with any search term
 
 Adjust the page range in the main() function:
